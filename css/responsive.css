@@ -1,0 +1,890 @@
+@media only screen and (min-width: 1600px) and (max-width: 1920px) {}
+
+@media only screen and (min-width: 1445px) and (max-width: 1599px) {}
+
+@media only screen and (min-width: 1400px) and (max-width: 1444px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .overlaytext {
+        position: absolute;
+        top: -50%;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        left: 5%;
+    }
+
+    ul.navbar-nav.mb-2.mb-lg-0 {
+        float: right;
+        margin-top: -45px;
+    }
+
+    button:not(:disabled),
+    [type=button]:not(:disabled),
+    [type=reset]:not(:disabled),
+    [type=submit]:not(:disabled) {
+        cursor: pointer;
+        background: #fff;
+        margin-top: 20px;
+    }
+
+    .logoimg img {
+        margin: 0 auto;
+        display: table;
+        position: relative;
+        top: -45px;
+    }
+
+    .overlaytext h1 {
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        text-align: left;
+        font-size: 37px;
+        font-weight: 600;
+        margin: 0 0 10px 0;
+        line-height: 55px;
+    }
+
+    .overlaytext p {
+        color: #fff;
+        font-size: 14px;
+        line-height: 15px;
+        text-align: left;
+        margin: 0 0 20px 0;
+    }
+
+    .overlaytext a {
+        float: left;
+        text-decoration: none;
+        color: #777;
+        border: 2px solid #777;
+        font-size: 15px;
+        padding: 7px 15px;
+        border-radius: 5px;
+    }
+
+    .swiper-container {
+        width: 100%;
+        height: 410px;
+        position: relative;
+        overflow: auto;
+    }
+
+    .locate-st h5 {
+        font-size: 14px;
+        font-weight: 600;
+        color: #000;
+        margin-top: 10px;
+        margin-bottom: 5px;
+    }
+
+    .locate-st p {
+        font-size: 8px;
+        font-weight: 400;
+        color: #000;
+    }
+
+    .locate-img img {
+        height: 30px;
+    }
+
+    .about-st h6 {
+        font-size: 10px;
+        font-weight: 400;
+        color: #000;
+    }
+
+    .about-st h3 {
+        font-size: 25px;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .about-st p {
+        font-size: 10px;
+        font-weight: 400;
+        color: #000;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .pixels ul li img {
+        height: 300px;
+        width: 60px;
+        /* width: auto; */
+        object-fit: cover;
+        /* margin: 0px 0px; */
+        border-radius: 0px 20px 20px 20px;
+    }
+
+    .custom-btn a {
+        padding: 12px 20px;
+        background-color: #000;
+        color: #fff;
+        font-size: 10px;
+        font-weight: 300;
+        border: none;
+        border-radius: 6px;
+    }
+
+    .car-bg {
+        /* background-position: center; */
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 35px 50px 35px 30px;
+    }
+
+    .car-fluid {
+        height: 200px;
+    }
+
+    .effort-st h4 {
+        font-size: 22px;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .effort-st p {
+        font-size: 10px;
+        font-weight: 400;
+        color: #000;
+        margin-top: 10px;
+    }
+
+    .home36 {
+        position: absolute;
+        right: -15%;
+        width: 400px;
+        top: -20%;
+        z-index: 99;
+    }
+
+    .home36 img {
+        height: 300px;
+    }
+
+    .home33 {
+        background-image: url(../images/pic12.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        padding: 0px 100px 0px 120px;
+        position: relative;
+        height: 300px;
+    }
+
+
+    .home34 h2 {
+        color: #000;
+        font-size: 17px;
+        line-height: 2;
+        margin-top: 45px;
+    }
+
+    .home34 p {
+        font-size: 10px;
+    }
+
+    .home34 h4 {
+        color: #000;
+        font-size: 17px;
+        line-height: 2;
+        font-weight: 600;
+    }
+
+    .second-sec {
+        padding: 0px 0px 30px;
+    }
+
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 10px;
+        position: absolute;
+        bottom: 10%;
+        left: 45%;
+    }
+
+    .home37 {
+        background-color: #ffffff;
+        padding: 15px 20px;
+        border: 1px solid #7070704D;
+        border-radius: 30px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        position: absolute;
+        bottom: -16px;
+        left: 17%;
+        width: 70%;
+        display: flex;
+        gap: 20px;
+    }
+
+
+    .faq-head h3 {
+        font-size: 22px;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .main-head {
+        text-align: center;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .main-head h3 {
+        font-size: 30px;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .main-head p {
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    .contents h5 {
+        /* font: normal normal 300 55px / 65px SF UI Display; */
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 30px;
+        font-weight: 300;
+    }
+
+    .contents p {
+        /* font: normal normal 300 23px / 28px SF UI Display; */
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        margin-top: 0px;
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    .header-pages {
+        background-image: url(../images/dash-bg.png);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        /* height: 500px; */
+        width: 100%;
+        /* margin-top: -30px; */
+        /* padding-bottom: 5%; */
+        padding: 100px 80px 40px 80px;
+    }
+
+    .location-sec {
+        padding: 50px 0px;
+    }
+
+    .locations-content p {
+        font: normal normal 300 16px / 8px SF UI Display;
+        letter-spacing: 0px;
+        color: #000;
+        text-transform: uppercase;
+        opacity: 1;
+        font-weight: 400;
+    }
+
+    .locations-content h5 {
+        font: normal normal 300 40px / 65px SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .card-shadow .container h5 {
+        font-size: 12px;
+    }
+
+    .card-shadow .container p {
+        font-size: 10px;
+    }
+
+    .our-st {
+        font-size: 12px;
+        font-weight: 400;
+        color: #000;
+        margin-top: 10px;
+    }
+
+    .auto-st {
+        font-size: 11px;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .tab-btn {
+        padding: 2px 7px;
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 4px;
+        color: #000;
+        font-size: 10px;
+        font-weight: 400;
+        font-family: 'SF UI Display';
+        margin: 0px 0px;
+    }
+
+    .lorem-btn a {
+        color: #000;
+        font-size: 11px;
+        font-weight: 400;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .veh-span {
+        border: 1px solid #ccc;
+        color: #000;
+        padding: 0px 12px;
+        border-radius: 4px;
+        font-size: 10px;
+    }
+
+
+    .veh-flex h6 {
+        font-size: 8px;
+        font-weight: 400;
+        color: #000;
+        margin-bottom: 0px;
+    }
+
+    .minbtn-flex {
+        padding: 8px 15px;
+        background: #000;
+        font-size: 10px;
+        color: #fff;
+        font-weight: 400;
+        border-radius: 8px;
+    }
+
+    .right-bg {
+        background-color: #fff;
+        box-shadow: 0px 3px 20px #00000029;
+        border: 1px solid #7070704D;
+        border-radius: 15px;
+        /* padding: 12px 0px; */
+        height: 330px;
+        padding: 10px;
+    }
+
+    .ab-content h3 {
+        font-weight: 400;
+        font-size: 30px;
+        font-family: SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        margin: 0px auto;
+        width: 90%;
+        text-align: center;
+    }
+
+    .ab-content p {
+        font-family: SF UI Display;
+        font-size: 12px;
+        margin-top: 30px;
+    }
+
+
+    .services-content {
+        padding: 20px;
+    }
+
+    .teams-content h2 {
+        font: normal normal bold 40px / 71px SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .teams-content p {
+        width: 70%;
+        font-size: 12px;
+    }
+
+    .teams-shadow h5 {
+        padding-top: 15px;
+        font-weight: 600;
+        font-size: 20px;
+        font-family: SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .teams-shadow p {
+        font-size: 11px;
+        font-weight: 400;
+        font-family: SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .teams-social {
+        border: 1px solid #070707;
+        border-radius: 100px;
+        width: 35px;
+        height: 35px;
+        padding: 8px 5px;
+        margin-left: 10px;
+    }
+
+    .set {
+        display: -webkit-box;
+    }
+
+}
+
+@media only screen and (min-width: 520px) and (max-width: 767px) {}
+
+@media only screen and (min-width: 300px) and (max-width: 519px) {
+
+    button:not(:disabled),
+    [type=button]:not(:disabled),
+    [type=reset]:not(:disabled),
+    [type=submit]:not(:disabled) {
+        cursor: pointer;
+        background: #fff;
+        margin-top: 20px;
+    }
+
+    .overlaytext {
+        position: absolute;
+        top: -60%;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        left: 5%;
+    }
+
+    .overlaytext h1 {
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        text-align: left;
+        font-size: 19px;
+        font-weight: 600;
+        margin: 0 0 10px 0;
+        line-height: 20px;
+        /* width: 65%; */
+    }
+
+    .overlaytext p {
+        color: #fff;
+        font-size: 10px;
+        line-height: 25px;
+        text-align: left;
+        margin: 0 0 10px 0;
+    }
+
+    .overlaytext a {
+        float: left;
+        text-decoration: none;
+        color: #777;
+        border: 2px solid #777;
+        font-size: 10px;
+        padding: 7px 10px;
+        border-radius: 5px;
+    }
+
+    .logoimg img {
+        margin: 0 auto;
+        display: table;
+        /* position: relative; */
+        top: 13px;
+        max-width: 100px;
+        float: inline-start;
+        position: fixed;
+    }
+
+    .set {
+        margin-top: 5px;
+        display: -webkit-inline-box;
+    }
+
+    .swiper-container {
+        width: 100%;
+        height: 43vh;
+        position: relative;
+    }
+
+    .swiper-container .swiper-pagination span {
+        width: 20px;
+        height: 20px;
+        padding: 2px 0px;
+        font-size: 10px;
+    }
+
+    section.homebanner {
+        padding: 0px 0 5px;
+    }
+
+    .main-head h3 {
+        font-size: 15px;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .main-head p {
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    .about-st {
+        margin-top: 20px;
+    }
+
+    .about-st h3 {
+        font-size: 20px;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .about-st p {
+        font-size: 10px;
+        font-weight: 400;
+        color: #000;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .custom-btn a {
+        display: flex;
+        justify-content: center;
+    }
+
+    .second-sec {
+        padding: 0px 0px 20px;
+    }
+
+    .car-bg {
+        padding: 5px;
+        background-image: none !important;
+    }
+
+    .effort-st h4 {
+        font-size: 25px;
+        font-weight: 600;
+        color: #000;
+        margin-top: 20px;
+    }
+
+    .effort-st p {
+        font-size: 10px;
+        font-weight: 400;
+        color: #000;
+        margin-top: 10px;
+    }
+
+    .home36 {
+        position: absolute;
+        right: -70%;
+        width: 400px;
+        top: -8%;
+        z-index: 99;
+    }
+
+    .second-margin {
+        margin-top: 25px;
+    }
+
+    .home35 {
+        align-items: center;
+        margin-top: 25px;
+    }
+
+    .home36 img {
+        height: 140px;
+    }
+
+    .home33 {
+        background-image: url(../images/pic12.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        padding: 0px 160px 0px 55px;
+        position: relative;
+        height: 160px;
+    }
+
+    .home34 h2 {
+        color: #000;
+        font-size: 10px;
+    }
+
+    .home34 p {
+        color: #000;
+        font-size: 5px;
+        font-weight: 400;
+        margin-bottom: 0px;
+    }
+
+    .home34 h4 {
+        color: #000;
+        font-size: 7px;
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .home37 {
+        background-color: #ffffff;
+        padding: 12px;
+        border: 1px solid #7070704D;
+        border-radius: 30px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        position: absolute;
+        bottom: -20px;
+        left: 10%;
+        width: 80%;
+        display: flex;
+        gap: 20px;
+    }
+
+    .home37 input {
+        padding: 5px;
+        width: 140px;
+        border: 1px solid #7070704D;
+        border-radius: 5px;
+        font-size: 10px;
+    }
+
+    .home37 input {
+        padding: 5px;
+        width: 160px;
+        border: 1px solid #7070704D;
+        border-radius: 5px;
+        font-size: 10px;
+    }
+
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-top: 10px;
+        display: none;
+    }
+
+    .home37 a {
+        background-color: #000000;
+        color: #ffffff;
+        padding: 6px 15px;
+        font-size: 9px;
+        border-radius: 5px;
+    }
+
+    .faq-head h3 {
+        font-size: 20px;
+        font-weight: 600;
+        color: #000;
+        margin-top: 35px;
+    }
+
+    .footer {
+        background-color: #f5f5f5;
+        padding: 20px 10px;
+    }
+
+    .footer1 li a {
+        color: #000000;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .footer3 p {
+        font-size: 10px;
+        font-weight: 500;
+        color: #000000;
+        margin-bottom: 0;
+    }
+
+    .contents h5 {
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        font-size: 20px;
+        font-weight: 300;
+    }
+
+    .contents p {
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        margin-top: 0px;
+        font-size: 11px;
+        font-weight: 300;
+    }
+
+    .contents a {
+        border: 1px solid #FFFFFF;
+        border-radius: 6px;
+        opacity: 1;
+        color: #FFFFFF;
+        font-weight: 300;
+        font-size: 10px;
+    }
+
+    .header-pages {
+        padding: 50px 30px 30px 30px;
+    }
+
+    .location-sec {
+        padding: 20px 0px;
+    }
+
+    .locations-content p {
+        font: normal normal 300 14px / 10px SF UI Display;
+        letter-spacing: 0px;
+        color: #000;
+        text-transform: uppercase;
+        opacity: 1;
+        font-weight: 400;
+    }
+
+    .locations-content h5 {
+        font: normal normal 300 25px / 45px SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .nav-item a {
+        text-align: left;
+        font: normal normal 300 12px / 0px SF UI Display;
+        letter-spacing: 0px;
+        color: #FFFFFF;
+        opacity: 1;
+        font-weight: 500;
+        padding-top: 30px;
+        margin-left: 15px;
+    }
+
+    .location-form-content h5 {
+        margin-top: 20px;
+        font: normal normal 600 20px / 30px SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .location-form-content p {
+        font: normal normal 300 12px / 30px SF UI Display;
+        font-weight: 400;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .location-form-content a {
+        font: normal normal 300 14px / 20px SF UI Display;
+        letter-spacing: 1px;
+        color: #FFFFFF;
+        text-transform: uppercase;
+        opacity: 1;
+        background-color: #000000;
+        padding: 11px;
+        height: 44px;
+    }
+
+    .dash-img {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 180px;
+        margin: 0px 0px 35px;
+    }
+
+    .right-bg {
+        background-color: #fff;
+        box-shadow: 0px 3px 20px #00000029;
+        border: 1px solid #7070704D;
+        border-radius: 15px;
+        height: 255px;
+        padding: 20px;
+    }
+
+
+    .tab-btn {
+        padding: 5px 25px;
+        background-color: #fff;
+        border: 1px solid #000;
+        border-radius: 4px;
+        color: #000;
+        font-size: 12px;
+        font-weight: 400;
+        font-family: 'SF UI Display';
+        margin: 0px 0px;
+    }
+
+    .video-ban {
+        height: 350px;
+        background-color: #fff;
+    }
+
+    .ab-content h3 {
+        font-weight: 400;
+        font-size: 22px;
+    }
+
+    .ab-content p {
+        font-family: SF UI Display;
+        font-size: 10px;
+    }
+
+    .services-content h5 {
+        margin-top: 10px;
+        letter-spacing: 0px;
+        font-size: 35px;
+        font-family: SF UI Display;
+        font-weight: 600;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .services-content p {
+        font: normal normal 300 13px / 30px SF UI Display;
+        letter-spacing: 0px;
+        color: #6A6A6A;
+        opacity: 1;
+        font-weight: 400;
+    }
+
+    .services-content {
+        padding: 20px;
+    }
+
+    .teams-content h2 {
+        font: normal normal bold 30px / 71px SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+    }
+
+    .teams-content p {
+        width: 90%;
+        font-size: 13px;
+        font-weight: SF UI Display;
+        letter-spacing: 0px;
+        color: #000000;
+        opacity: 1;
+        margin: 0 auto;
+        font-weight: 500;
+    }
+
+    .navbar-toggler-icon {
+        display: inline-block;
+        width: 20px;
+        height: 24px;
+        vertical-align: middle;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100%;
+    }
+
+    .navbar-toggler {
+        padding: 2px 5px;
+        float: inline-end;
+    }
+}
